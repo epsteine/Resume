@@ -1,0 +1,87 @@
+body {
+
+}
+#heading {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px #00ffff;
+  font-family: calibri;
+  font-size: 75px;
+  height: auto;
+  width: auto;
+  text-align: center;
+}
+.menu {
+  font-family: calibri;
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+}
+a {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+h2 {
+  font-family: calibri;
+  color: #ffffff;
+  text-shadow: 2px 2px #0000ff;
+  text-align: center;
+  font-size: 60px;
+}
+p {
+  font-size: 20px;
+  font-family: calibri;
+  font-weight: bold;
+}
+li {
+  font-family: calibri;
+  font-size: 20px;
+}
+.block1 {
+  display: block;
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: white;
+  opacity: .5
+
+}
+.block2 {
+  display: block;
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: white;
+  opacity: .5
+}
+
+img{
+
+}
+
+a:link {
+
+  text-decoration: none;
+  color: black;
+  font-family: helvetica;
+
+}
+a:hover{
+  background-color: #00ffff;
+}
+.contact {
+  font-family: calibri;
+  font-size: 25px;
+  width: 80vw;
+  margin: auto;
+}
+table {
+  float: left;
+  text-align: left;
+  width: 40vw;
+}
+table table {
+  float: right;
+  text-align: left;
+  width: 40vw;
+}
